@@ -1,0 +1,17 @@
+{
+    "name": "Hello world App",
+    "short_name": "Hello",
+    "description": "My first app using PWA.",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "./images/location.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "display": "fullscreen",
+    "background_color": "red",
+    "theme_color": "white"
+}
